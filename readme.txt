@@ -1,4 +1,6 @@
 === Better WordPress Minify ===
+NOTE: This fork is no longer maintained.
+
 Contributors: OddOneOut, dbswebsite
 Donate link: http://betterwp.net/wordpress-plugins/bwp-minify/
 Tags: CSS, javascript, JS, minify, minification, optimization, optimize
